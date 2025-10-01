@@ -17,7 +17,6 @@ When you use Soul Vision - Astrology, we collect the following information that 
   - Name
   - Date of birth
   - Time of birth
-  - Place of birth
   - Gender
   - Relationship/marital status
   - Interests and preferences
@@ -113,13 +112,12 @@ You have the right to:
 
 ### How to Exercise Your Rights
 
-To exercise any of these rights, contact us at: [Your Contact Email]
+To exercise any of these rights, contact us at: gleisson.geraldo@xpace.group
 
 ### Device Permissions
 
 You can control app permissions through your device settings:
 
-- **Camera**: Settings → Soul Vision → Camera
 - **Photos**: Settings → Soul Vision → Photos
 - **Notifications**: Settings → Soul Vision → Notifications
 
